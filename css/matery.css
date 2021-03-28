@@ -241,7 +241,8 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right, #696969 0%, #696969 100%);/*咖啡色*/
+    background-image: linear-gradient(to right, #BDB76B 0%, #FAEBD7 100%);
+    opacity:0.9;
 }
 
 .text-color {
